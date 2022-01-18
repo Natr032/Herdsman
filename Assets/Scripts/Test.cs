@@ -18,7 +18,7 @@ public class Test : MonoBehaviour
 
     private void Update()
     {
-        TestDroppedWeapon();
+        //TestDroppedWeapon();
     }
 
     public string TestFactorial()
